@@ -13,9 +13,16 @@ Para ejecutar:
 ```
 npm start
 ```
+Para ejecutar en navegador:
 
+```
+localhost:2000
+```
 EJECUCIÓN HOME
 
  ![Screenshot](home.png) 
 
+EJECUCIÓN ABOUT
+
+ ![Screenshot](about.png) 
 
